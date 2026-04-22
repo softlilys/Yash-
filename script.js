@@ -171,7 +171,7 @@ function movePlayer(dx, dy) {
 
 // Show win content
 function showWinContent() {
-    window.location.href = "https://clarie.neocities.org/Pink%2520Envelope";
+    window.location.href = "https://nekoos.neocities.org/Pink20Envelope";
 }
 
 // Show game over screen
